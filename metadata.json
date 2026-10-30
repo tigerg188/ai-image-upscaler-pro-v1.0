@@ -1,0 +1,11 @@
+{
+  "name": "AI Image Upscaler Pro - 图片无损放大器",
+  "description": "专业高保真图像超分辨率与极端 8X 巨图切片流式拼接系统，支持多路线算法、Gemini 智能画质诊断、全量 8X 巨图流式无缝导出与离线缝合查看器。",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
